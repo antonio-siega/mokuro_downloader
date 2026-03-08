@@ -1,5 +1,4 @@
-# mokuro_downloader
-Script for downloading volumes from the mokuro.moe/manga repository.
+# [NO LONGER FUNCTIONAL] Formerly, script for downloading volumes from the mokuro.moe/manga repository. Currently not functional because the repository is no longer publicly available. 
 
 # Why use this?
 
